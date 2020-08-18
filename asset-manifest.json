@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/terzina/medium.github.io/static/js/main.04d56f46.chunk.js",
-    "main.js.map": "/terzina/medium.github.io/static/js/main.04d56f46.chunk.js.map",
-    "runtime-main.js": "/terzina/medium.github.io/static/js/runtime-main.f42d1e53.js",
-    "runtime-main.js.map": "/terzina/medium.github.io/static/js/runtime-main.f42d1e53.js.map",
-    "static/js/2.b54a96ae.chunk.js": "/terzina/medium.github.io/static/js/2.b54a96ae.chunk.js",
-    "static/js/2.b54a96ae.chunk.js.map": "/terzina/medium.github.io/static/js/2.b54a96ae.chunk.js.map",
-    "index.html": "/terzina/medium.github.io/index.html",
-    "precache-manifest.7693b5afb2e7b0fc9cab58d8a81523cd.js": "/terzina/medium.github.io/precache-manifest.7693b5afb2e7b0fc9cab58d8a81523cd.js",
-    "service-worker.js": "/terzina/medium.github.io/service-worker.js"
+    "main.js": "/Medium/static/js/main.ce0765c2.chunk.js",
+    "main.js.map": "/Medium/static/js/main.ce0765c2.chunk.js.map",
+    "runtime-main.js": "/Medium/static/js/runtime-main.88aa9cd9.js",
+    "runtime-main.js.map": "/Medium/static/js/runtime-main.88aa9cd9.js.map",
+    "static/js/2.a4d12cb2.chunk.js": "/Medium/static/js/2.a4d12cb2.chunk.js",
+    "static/js/2.a4d12cb2.chunk.js.map": "/Medium/static/js/2.a4d12cb2.chunk.js.map",
+    "index.html": "/Medium/index.html",
+    "precache-manifest.49aa0b611cbda52366151cf24093795d.js": "/Medium/precache-manifest.49aa0b611cbda52366151cf24093795d.js",
+    "service-worker.js": "/Medium/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.f42d1e53.js",
-    "static/js/2.b54a96ae.chunk.js",
-    "static/js/main.04d56f46.chunk.js"
+    "static/js/runtime-main.88aa9cd9.js",
+    "static/js/2.a4d12cb2.chunk.js",
+    "static/js/main.ce0765c2.chunk.js"
   ]
 }
